@@ -11,7 +11,7 @@ function About() {
         </div>
         <div className="about-text">
           <h2>Ben Kimim?</h2>
-          <p>Yavuz Türker Gürleyük, Balıkesir Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.</p>
+          <p>Ben Yavuz Türker Gürleyük, Balıkesir Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Anadolu Üniversitesi Web Tasarımı ve Kodlama bölümünden mezunuyum. 2020 Vex Robotics Türkiye birincisiyim.  </p>
         </div>
       </div>
     </section>
